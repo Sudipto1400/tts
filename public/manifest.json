@@ -1,0 +1,24 @@
+{
+  "name": "বাংলা Text to Audio - এআই ভয়েস জেনারেটর",
+  "short_name": "বাংলা Audio",
+  "description": "১০০টি প্রফেশনাল পুরুষ ও নারী কণ্ঠে স্বাভাবিক বাংলা টেক্সট-টু-অডিও ওয়েব অ্যাপ।",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

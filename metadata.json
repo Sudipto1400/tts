@@ -1,0 +1,6 @@
+{
+  "name": "বাংলা Text to Audio",
+  "description": "একটি সম্পূর্ণ আধুনিক, দ্রুত এবং ব্যবহারবান্ধব বাংলা Text-to-Audio ওয়েব অ্যাপ। ১০০টি বাংলা Voice Profile, কাস্টম অডিও প্লেয়ার, অফলাইন সাপোর্ট এবং MP3/WAV ডাউনলোড সহ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
